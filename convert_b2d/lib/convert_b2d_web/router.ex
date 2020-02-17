@@ -18,9 +18,4 @@ defmodule ConvertB2dWeb.Router do
 
     get "/", PageController, :index
   end
-
-  # Other scopes may use custom stacks.
-  # scope "/api", ConvertB2dWeb do
-  #   pipe_through :api
-  # end
 end

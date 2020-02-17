@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :convert_b2d, ConvertB2d.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "102030",
   database: "convert_b2d_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
