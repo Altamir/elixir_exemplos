@@ -1,5 +1,9 @@
 # Chat
 
+Realtime chat create in 10 min.
+
+![](../imgs/ChatHelloWord.PNG)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
