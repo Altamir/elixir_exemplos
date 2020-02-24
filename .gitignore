@@ -4,6 +4,8 @@
 **/tmp
 **/node_modules
 
+**/.elixir_ls/
+
 **/config/*.secret.exs
 
 **/assets/node_modules

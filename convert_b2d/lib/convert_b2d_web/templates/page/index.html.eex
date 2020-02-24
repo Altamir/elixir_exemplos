@@ -1,9 +1,0 @@
-<section class="phx-hero">
-  <h1><%= gettext "Welcome to %{name}!", name: "Convert Binary 2 Decimal" %></h1>
-  <h2>A simple Binary to decimal converter.</h2>
-  <p>Application example made with Elixir.<p>
-</section>
-
-<section class="row">
-  <form>
-</section>
